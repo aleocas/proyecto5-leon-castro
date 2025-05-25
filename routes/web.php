@@ -40,6 +40,7 @@ Route::post('/insertarGenero', [BBDDController::class, 'insertarGenero'])
 Route::get('/generos', [EloquentController::class, 'genreTables'])
 -> name('Generos');
 
+//comentario para 
 /*------------------------------------------------------------*/
 
 Route::get('/modificar', [CRUDController::class, 'formEditar'])
