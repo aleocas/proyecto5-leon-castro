@@ -1,6 +1,6 @@
-# 🎮 Proyecto 5: Aplicación Web de Gestión de Videojuegos con Laravel
+# Proyecto 5: Aplicación Web de Gestión de Videojuegos con Laravel
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 
 Este proyecto consiste en el desarrollo de una **aplicación web completa de gestión de videojuegos**, creada con el framework **Laravel 10**, 
 como parte del módulo **Desarrollo Web en Entorno Servidor (DWES)**. El sistema está orientado a practicar y consolidar conocimientos sobre 
@@ -12,22 +12,22 @@ y controlar el acceso según el tipo de usuario. Además, se incluye un **perfil
 
 ---
 
-## 🚀 Funcionalidades principales
+## Funcionalidades principales
 
-- ✅ CRUD completo de videojuegos
-- ✅ Gestión de géneros (relación N:M)
-- ✅ Sistema de autenticación y registro de usuarios
-- ✅ Control de roles: cliente / administrador
-- ✅ Middleware y protección de rutas según rol
-- ✅ Validación de formularios
-- ✅ Edición de perfil de usuario (nombre, email, contraseña e imagen)
-- ✅ Diseño responsive con Blade + Bootstrap 5
-- ✅ Migraciones y sembrado de datos con Seeders
-- ✅ Manejo de imágenes de usuario y portadas de videojuegos
+- CRUD completo de videojuegos
+- Gestión de géneros (relación N:M)
+- Sistema de autenticación y registro de usuarios
+- Control de roles: cliente / administrador
+- Middleware y protección de rutas según rol
+- Validación de formularios
+- Edición de perfil de usuario (nombre, email, contraseña e imagen)
+- Diseño responsive con Blade + Bootstrap 5
+- Migraciones y sembrado de datos con Seeders
+- Manejo de imágenes de usuario y portadas de videojuegos
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Laravel 10**
 - **Blade** (motor de plantillas)
